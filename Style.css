@@ -1,0 +1,25 @@
+#Body_Header{
+    background-color: aqua;
+}
+
+.Logo1 {
+    float: left;
+    height: 200px;
+    width: fit-content;
+}
+
+.Menu {
+    float: right;
+    list-style-type: none;
+    font-size: 20px;
+    padding: 90px 5px 0px 5px;
+}
+
+#Body_Page {
+    padding-top: 200px;
+}
+
+Body {
+    background-color: aqua;
+    background-blend-mode: darken;
+}
